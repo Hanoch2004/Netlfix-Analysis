@@ -1,7 +1,6 @@
 # Netlfix-Analysis
 Comprehensive analysis of Netflix's content catalog with advanced visualizations and growth forecasting
 
-![Advanced Analytics Dashboard](netflix_advanced_dashboard.png)
 
 ## Overview
 This project provides a comprehensive analysis of Netflix's content catalog, examining trends, patterns, and characteristics of movies and TV shows available on the platform. The analysis includes data cleaning, exploratory analysis, advanced visualizations, and growth forecasting.
